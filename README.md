@@ -1,2 +1,3 @@
 # hello_apod
-hello apod
+Hello apod,this is my first repository on github.
+
